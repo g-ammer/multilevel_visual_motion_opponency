@@ -1,5 +1,5 @@
-# multilevel_viual_motion_opponency
-## Scientific publication describing a neural circuit architecture in the visual system of the fruit fly that implements motion opponent computations at successive network levels
+# Multilevel visual motion opponency in *Drosophila*
+## Scientific publication describing a neural circuit architecture in the visual system that implements motion opponent computations at multiple network levels
 
 **Data and code for 'Multilevel visual motion opponency in *Drosophila*, Nature Neuroscience, 2023'**
 
