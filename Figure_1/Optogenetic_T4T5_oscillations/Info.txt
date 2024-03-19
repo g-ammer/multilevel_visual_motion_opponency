@@ -1,0 +1,1 @@
+Genotype: norpA7 ; UAS.ChR2-H134R ; R42F06.Gal4

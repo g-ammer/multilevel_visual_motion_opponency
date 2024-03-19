@@ -1,0 +1,136 @@
+[
+  {
+    "id": 8426959,
+    "status": "final",
+    "type": "testType",
+    "size": 14766,
+    "synapseSet": [[ 4287, 2277, 1542 ],[ 4222, 2402, 1688 ],[ 4287, 2277, 1502 ],[ 8000,7000,6000 ], [ 4000,5000,6000 ]]
+  },
+  {
+    "id": 26311,
+    "status": "ask",
+    "name": "Dm12-4",
+    "size": 3158061,
+    "synapseSet": [[ 4301, 2276, 1535 ],[ 4300, 2000, 1500 ]]
+  },
+  {
+    "id": 2589725,
+    "synapseSet": [[ 4298, 2294, 1542 ]]
+  },
+  {
+    "id": 831744,
+    "synapseSet": [[ 4292, 2261, 1542 ]]
+  },
+  {
+    "id": 100523,
+    "status": "final",
+    "size": 79742
+  },
+  {
+    "id": 100526,
+    "status": "final",
+    "size": 33588
+  },
+  {
+    "id": 100539,
+    "status": "final",
+    "size": 1174
+  },
+  {
+    "id": 100541,
+    "status": "testStatus",
+    "size": 11024
+  },
+  {
+    "id": 100554,
+    "status": "final (irrelevant)",
+    "name": "testName",
+    "size": 1756948
+  },
+  {
+    "id": 100555,
+    "status": "final (irrelevant)",
+    "instance": "testInstance",
+    "size": 1756948
+  },
+  {
+    "id": 100556,
+    "instance": "testInstanceWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100569,
+    "status": "final",
+    "size": 1031,
+    "name": "KC-5",
+    "type": "KC",
+    "rois": ["roi1","roi2"],
+    "soma": { "location":[1,2,3],"radius":5.0}
+  },
+  {
+    "id": 100600,
+    "status": "final (irrelevant2)",
+    "primaryNeurite": "testPrimaryNeurite",
+    "size": 1756948
+  },
+  {
+    "id": 100601,
+    "primaryNeurite": "testPrimaryNeuriteWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100602,
+    "status": "final (irrelevant)",
+    "majorInput": "testMajorInput",
+    "size": 1756948
+  },
+  {
+    "id": 100603,
+    "majorInput": "testMajorInputWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100604,
+    "status": "final (irrelevant)",
+    "majorOutput": "testMajorOutput",
+    "size": 1756948
+  },
+  {
+    "id": 100605,
+    "majorOutput": "testMajorOutputWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100606,
+    "status": "final (irrelevant)",
+    "clonalUnit": "testClonalUnit",
+    "size": 1756948
+  },
+  {
+    "id": 100607,
+    "clonalUnit": "testClonalUnitWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100608,
+    "status": "final (irrelevant)",
+    "neurotransmitter": "testNeurotransmitter",
+    "size": 1756948
+  },
+  {
+    "id": 100609,
+    "neurotransmitter": "testNeurotransmitterWithoutNameOrStatus",
+    "size": 1234
+  },
+  {
+    "id": 100610,
+    "status": "final (irrelevant)",
+    "property": "testProperty",
+    "size": 1756948
+  },
+  {
+    "id": 100611,
+    "property": "testPropertyWithoutNameOrStatus",
+    "size": 1234
+  }
+]

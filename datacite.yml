@@ -1,0 +1,92 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+## Required fields
+
+# The main researchers involved. Include digital identifier (e.g., ORCID)
+# if possible, including the prefix to indicate its type.
+authors:
+  -
+    firstname: "Georg"
+    lastname: "Ammer"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+  -
+    firstname: "Etienne"
+    lastname: "Serbe-Kamp"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+  -
+    firstname: "Alex"
+    lastname: "Mauss"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+  -
+    firstname: "Florian"
+    lastname: "Richter"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+  -
+    firstname: "Sandra"
+    lastname: "Fendl"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+  -
+    firstname: "Alexander"
+    lastname: "Borst"
+    affiliation: "Max Planck Institute for Biological Intelligence"
+
+# A title to describe the published resource.
+title: "Data and code for 'Multilevel visual motion opponency in Drosophila'"
+
+# Additional information about the resource, e.g., a brief abstract.
+description: |
+  This resource includes data and code for the paper 
+  'Multilevel visual motion opponency in Drosophila, Nature Neuroscience, 2023'.
+
+# Lit of keywords the resource should be associated with.
+# Give as many keywords as possible, to make the resource findable.
+keywords:
+  - Neuroscience
+  - Motion vision
+  - Drosophila
+
+# License information for this resource. Please provide the license name and/or a link to the license.
+# Please add also a corresponding LICENSE file to the repository.
+license:
+  name: "Creative Commons CC0 1.0 Public Domain Dedication"
+  url: "https://creativecommons.org/publicdomain/zero/1.0/"
+
+
+
+## Optional Fields
+
+# Funding information for this resource.
+# Separate funder name and grant number by comma.
+funding:
+  - "Max Planck Society"
+
+
+# references: Digital resources related to this publication, such as research articles, data, or code
+# If this publication is supplement to a research paper, a reference to the paper is mandatory.
+#
+#  id: Please provide digital identifier (e.g., DOI, arXiv, PMID, URL) if possible.
+#   Add a prefix to the ID, separated by a colon, to indicate the type of identifier.
+#   If assignment of an identifier is pending, enter "doi:tba" as placeholder.
+#
+#  reftype: The relationship of this publication to the referenced resource.
+#   IsSupplementTo: to reference a research paper that is supplemented by this publication
+#   IsDescribedBy: to reference a data descriptor of a dataset publication
+#   IsReferencedBy: to reference code or other resources that use this publication.
+#   (for further reftypes see the Datacite schema description https://doi.org/10.5438/0014) 
+#
+#  citation: Please provide the full reference, including title, authors, journal etc., like in the reference section of a paper.
+#   If an unpublished manuscript is referenced, enter as much citation information as available, and update when the paper is published.
+#
+references:
+  -
+    id: "doi:10.1038/s41593-023-01443-z"
+    reftype: "IsSupplementTo"
+    citation: "Ammer G, Serbe-Kamp E, Mauss AS, Richter FG, Fendl S, Borst A (2023) Multilevel visual motion opponency in Drosophila. Nature Neuroscience, in press"
+
+
+# Resource type. Default is Dataset, other possible values are Software, DataPaper, Image, Text.
+resourcetype: Dataset
+
+# Do not edit or remove the following line
+templateversion: 1.2
