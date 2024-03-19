@@ -1,11 +1,12 @@
-# Ammer_et_al_2023
+# multilevel_viual_motion_opponency
+## Scientific publication describing a neural circuit architecture in the visual system of the fruit fly that implements motion opponent computations at successive network levels
 
 **Data and code for 'Multilevel visual motion opponency in *Drosophila*, Nature Neuroscience, 2023'**
 
 This repository contains all data and code needed to reproduce the Main and Extended Data Figures of the publication and is grouped in folders that correspond to the Figures. Numerical data are generally provided in numpy-format and accompanied by analysis code provided in ipynb (Jupyter Notebook) files that allow reproduction of the manuscript's Figures.
 
-Whereas most analysis code is written in Python 2.7.15, some scripts are written in Python 3.8.8.
-Note that all analysis codes necessitate the importation of open source Python libraries:
+Data analysis code is written in Python 2.7.15 and Python 3.8.8.
+Note that all analysis codes necessitate the importation of the following open source Python libraries:
 
 ```
 import numpy as np
