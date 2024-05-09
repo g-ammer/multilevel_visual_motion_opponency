@@ -1,6 +1,8 @@
 # Multilevel visual motion opponency in *Drosophila*
 ## Scientific publication describing a neural circuit architecture in the visual system that implements motion opponent computations at multiple network levels
 
+![alt text](https://github.com/g-ammer/multilevel_visual_motion_opponency/blob/main/oppoency_jk.png)
+
 **Data and code for 'Multilevel visual motion opponency in *Drosophila*, Nature Neuroscience, 2023'**
 
 This repository contains all data and code needed to reproduce the Main and Extended Data Figures of the publication and is grouped in folders that correspond to the Figures. Numerical data are generally provided in numpy-format and accompanied by analysis code provided in ipynb (Jupyter Notebook) files that allow reproduction of the manuscript's Figures.
